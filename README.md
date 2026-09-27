@@ -117,7 +117,6 @@ Message me directly on Telegram or Gmail, or open an issue/discussion on any rep
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer&width=1000" alt="footer" />
 
 <div align="center">
 <i>Thanks for Attention ✨</i>
