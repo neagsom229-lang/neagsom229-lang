@@ -90,13 +90,6 @@ Junior web developer, passionate about learning new things daily and always curi
 
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/neagsom229-lang/neagsom229-lang/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-<br/>
 
 ## 📬 Let's Connect
 
