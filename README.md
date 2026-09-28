@@ -33,6 +33,7 @@ Junior web developer, passionate about learning new things daily and always curi
 <td align="center" width="25%" valign="top">
 
 **Frontend**
+
 <br/><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
