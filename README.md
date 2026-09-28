@@ -111,7 +111,6 @@ Message me directly on Telegram or Gmail, or open an issue/discussion on any rep
 
 <br/>
 
-
 <div align="center">
 <i>Thanks for Attention ✨</i>
 </div>
