@@ -83,7 +83,7 @@ Junior web developer, passionate about learning new things daily and always curi
 
 ## 📊 GitHub Stats
 
-## 🧊 3D Contribution Calendar
+## 🧊Contribution Calendar
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Junior web developer, passionate about learning new things daily and always curi
 </div>
 
 
-## 📬 Let's Connect
+## 📬 Let's Connect me
 
 <div align="center">
 
