@@ -26,7 +26,7 @@ Junior web developer, passionate about learning new things daily and always curi
 
 <br/>
 
-## 🧰 Tech Stack
+## 🧰 Technical Stack
 
 <table width="100%">
 <tr>
