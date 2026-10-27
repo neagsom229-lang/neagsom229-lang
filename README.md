@@ -31,9 +31,9 @@ Junior web developer, passionate about learning new things daily and always curi
 <table width="100%">
   <thead>
     <tr>
-      <th width="33%" align="center">Frontend</th>
-      <th width="33%" align="center">Backend</th>
-      <th width="33%" align="center">Database & DevOps</th>
+      <th width="44%" align="center">Frontend</th>
+      <th width="44%" align="center">Backend</th>
+      <th width="44%" align="center">Database & DevOps</th>
     </tr>
   </thead>
   <tbody>
