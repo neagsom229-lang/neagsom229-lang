@@ -55,7 +55,7 @@ Junior web developer, passionate about learning new things daily and always curi
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 
 </td>
-<td align="center" width="45%" valign="top">
+<td align="center" width="100%" valign="top">
 
 **Data & Infra**
 <br/><br/>
