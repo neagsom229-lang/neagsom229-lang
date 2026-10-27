@@ -30,7 +30,7 @@ Junior web developer, passionate about learning new things daily and always curi
 
 <table width="100%">
 <tr>
-<td align="center" width="25%" valign="top">
+<td align="center" width="45%" valign="top">
 
 **Frontend**
 
@@ -43,7 +43,7 @@ Junior web developer, passionate about learning new things daily and always curi
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="45%" valign="top">
 
 **Backend**
 <br/><br/>
@@ -55,7 +55,7 @@ Junior web developer, passionate about learning new things daily and always curi
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 
 </td>
-<td align="center" width="25%" valign="top">
+<td align="center" width="45%" valign="top">
 
 **Data & Infra**
 <br/><br/>
@@ -67,14 +67,7 @@ Junior web developer, passionate about learning new things daily and always curi
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </td>
-<td align="center" width="25%" valign="top">
 
-**Payments & CV**
-<br/><br/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/KHQR-9333EA?style=flat-square&logo=googlepay&logoColor=white" /><br/>
-
-</td>
 </tr>
 </table>
 
